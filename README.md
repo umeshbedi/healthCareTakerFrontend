@@ -1,3 +1,11 @@
+# ScreenShots of App
+<p align="left">
+  <img src="https://raw.githubusercontent.com/umeshbedi/healthCareTakerFrontend/refs/heads/main/assets/App%20Image%201.jpeg" width="350">
+  <img src="https://raw.githubusercontent.com/umeshbedi/healthCareTakerFrontend/refs/heads/main/assets/App%20Image%202.jpeg" width="350">
+  <img src="https://raw.githubusercontent.com/umeshbedi/healthCareTakerFrontend/refs/heads/main/assets/App%20Image%203.jpeg" width="350">
+  <img src="https://raw.githubusercontent.com/umeshbedi/healthCareTakerFrontend/refs/heads/main/assets/App%20Image%204.jpeg" width="350">
+</p>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -51,7 +59,6 @@ This is one way to run your app — you can also run it directly from within And
 
 You've successfully run and modified your React Native App. :partying_face:
 
-# ScreenShots of App
 
 
 # Learn More
